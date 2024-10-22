@@ -1,0 +1,44 @@
+{
+  "login": [
+    {
+      "id": "2",
+      "name": "alex",
+      "email": "alex456@example.com"
+    },
+    {
+      "id": "a344",
+      "username": "Saurabh",
+      "email": "saurabh2271.be22@chitkara.edu.in",
+      "password": "123456",
+      "phone": "8765432192"
+    },
+    {
+      "id": "02a1",
+      "name": "saurabh",
+      "email": "uday12@gmail.com",
+      "password": "123456",
+      "phone": "9876543273"
+    },
+    {
+      "id": "ff21",
+      "username": "sauray21s",
+      "email": "uday12@gmail.com",
+      "password": "123456",
+      "phone": "9876543272"
+    },
+    {
+      "id": "a5e4",
+      "username": "sauray21s",
+      "email": "uday12@gmail.com",
+      "password": "123456",
+      "phone": "8765432199"
+    },
+    {
+      "id": "895e",
+      "username": "ansh",
+      "email": "sky123@gmail.com",
+      "password": "1234567",
+      "phone": "9876543277"
+    }
+  ]
+}

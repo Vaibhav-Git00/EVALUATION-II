@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="logn.css">
+</head>
+<body>
+    <form id="signupForm">
+        <h1>Sign Up</h1>
+        <div>
+            <label for="username">Enter Name</label>
+            <input type="text" id="username" name="username" required>
+            <div class="error" id="nameError"></div>
+        </div>
+        <div>
+            <label for="email">Enter Email</label>
+            <input type="email" id="email" name="email" required>
+            <div class="error" id="emailError"></div>
+        </div>
+        <div>
+            <label for="password">Enter Password</label>
+            <input type="password" id="password" name="password" required>
+            <div class="error" id="passwordError"></div>
+        </div>
+        <div>
+            <label for="c_password">Confirm Password</label>
+            <input type="password" id="c_password" name="c_password" required>
+            <div class="error" id="c_passwordError"></div>
+        </div>
+        <div>
+            <label for="phone">Enter Phone</label>
+            <input type="text" id="phone" name="phone" required>
+            <div class="error" id="phoneError"></div>
+        </div>
+        <button type="submit">Sign Up</button>
+        <div>
+            Already have an account? <a href="logn.html">Log in</a>
+        </div>
+    </form>
+    <script src="signup.js"></script>
+</body>
+</html>
